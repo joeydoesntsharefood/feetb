@@ -21,6 +21,13 @@ main {
   color: white;
 }
 
+.circle {
+  background: #5D00FF;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
 button {
 	display: block;
 	position: relative;
